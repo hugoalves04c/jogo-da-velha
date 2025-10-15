@@ -6,7 +6,11 @@
 | B |  O |  O | ❌  |
 | C |  ❌ | ❌ |  ❌ |
 
-**Players**
+**Jogadores**
 
 - ❌ p1 Hugo
 - ⭕ P2 Sombra
+  
+
+  **Vencedor** 
+  P1 Hugo
