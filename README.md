@@ -2,11 +2,11 @@
 
 |   | 1 | 2 | 3 |
 |---|---|---|---|
-| A |   |   |   |
+| A |  ❌ |   |   |
 | B |   |   |   |
 | C |   |   |   |
 
-**Legenda**
+**Players**
 
 - ❌ Primeiro jogador 
 - ⭕ Segundo jogador
