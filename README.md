@@ -9,4 +9,4 @@
 **Players**
 
 - ❌ p1 Hugo
-- ⭕ Segundo jogador
+- ⭕ P2 Sombra
