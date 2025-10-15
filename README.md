@@ -8,7 +8,7 @@
 
 **Jogadores**
 
-- ❌ p1 Hugo
+- ❌ HUGO 1
 - ⭕ P2 Sombra
   
 
