@@ -8,5 +8,5 @@
 
 **Players**
 
-- ❌ Primeiro jogador 
+- ❌ p1 Hugo
 - ⭕ Segundo jogador
