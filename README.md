@@ -9,7 +9,7 @@
 **Jogadores**
 
 - ❌ HUGO 1
-- ⭕ P2 Sombra
+- ⭕ hUGO 2
   
 
   **Vencedor** 
